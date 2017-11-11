@@ -33,6 +33,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+
 curriculum:
 
   - image: img/imaginea_logo.png
