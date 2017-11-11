@@ -284,10 +284,9 @@ print("Predictions: {}".format(str(predictions)))
 - https://medium.com/towards-data-science/how-to-do-text-classification-using-tensorflow-word-embeddings-and-cnn-edae13b3e575
 - https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/textclassification
 
-# Convert this notebook for Docs
-
 
 ```python
+# Convert this notebook for Docs
 ! jupyter nbconvert --to markdown --output-dir ../docs/_posts 2017-11-11-DatasetHandling.ipynb
 ```
 
