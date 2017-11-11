@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TFRecord"
+title:  "Dataset Handling"
 description: "Handling Dataset with TnsorFlow Dataset APIs"
 excerpt: "Handling Dataset with TnsorFlow Dataset APIs"
 date:   2017-11-11
@@ -292,7 +292,7 @@ print("Predictions: {}".format(str(predictions)))
 ```
 
     [NbConvertApp] Converting notebook 2017-11-11-DatasetHandling.ipynb to markdown
-    [NbConvertApp] Writing 9237 bytes to ../docs/_posts/2017-11-11-DatasetHandling.md
+    [NbConvertApp] Writing 9279 bytes to ../docs/_posts/2017-11-11-DatasetHandling.md
 
 
 
