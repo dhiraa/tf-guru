@@ -1,5 +1,5 @@
 
-**Note book avaialble @ [www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb](www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb)**
+**Jupyter notebook avaialble @ [www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb](www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb)**
 
 # Handling TextDataset with TensorFlow APIs
 
@@ -262,10 +262,6 @@ print("Predictions: {}".format(str(predictions)))
 ```python
 ! jupyter nbconvert --to markdown --output-dir ../docs/_posts 2017-11-11-DatasetHandling.ipynb
 ```
-
-    [NbConvertApp] Converting notebook 2011-11-11-DatasetHandling.ipynb to markdown
-    [NbConvertApp] Writing 15316 bytes to ../docs/_posts/2011-11-11-DatasetHandling.md
-
 
 
 ```python
