@@ -1,7 +1,18 @@
+---
+layout: post
+title:  "TFRecord"
+description: "Handling Dataset with TnsorFlow Dataset APIs"
+excerpt: "Handling Dataset with TnsorFlow Dataset APIs"
+date:   2017-11-11
+mathjax: true
+comments: true 
+---
 
 **Jupyter notebook avaialble @ [www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb](www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb)**
 
 # Handling TextDataset with TensorFlow APIs
+
+### Preparing vocab list with TF APIs
 
 
 ```python
@@ -252,6 +263,23 @@ print("Predictions: {}".format(str(predictions)))
 
 ```
 
+
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
 # References: 
 - https://medium.com/towards-data-science/how-to-do-text-classification-using-tensorflow-word-embeddings-and-cnn-edae13b3e575
 - https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/textclassification
@@ -262,6 +290,10 @@ print("Predictions: {}".format(str(predictions)))
 ```python
 ! jupyter nbconvert --to markdown --output-dir ../docs/_posts 2017-11-11-DatasetHandling.ipynb
 ```
+
+    [NbConvertApp] Converting notebook 2017-11-11-DatasetHandling.ipynb to markdown
+    [NbConvertApp] Writing 9237 bytes to ../docs/_posts/2017-11-11-DatasetHandling.md
+
 
 
 ```python
