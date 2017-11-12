@@ -8,7 +8,7 @@ mathjax: true
 comments: true 
 ---
 
-**Jupyter notebook avaialble @ [www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb](www.github.com/iaja/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb)**
+**Jupyter notebook avaialble @ [www.github.com/dhiraa/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb](www.github.com/dhiraa/tf-guru/dataset/2017-11-11-DatasetHandling.ipynb)**
 
 # Handling TextDataset with TensorFlow APIs
 
